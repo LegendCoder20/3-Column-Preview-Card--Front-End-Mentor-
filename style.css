@@ -6,8 +6,10 @@
     padding: 0;
     /* border: 2px solid red; */
 }
+body{
+    background-color: hsl(0, 0%, 95%);
+}
 .main-container{ 
-    background-color: hsla(0, 0%, 100%, 0.75);
     height: 98vh;
     width: 86%;
     display: grid;
