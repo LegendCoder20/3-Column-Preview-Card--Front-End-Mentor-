@@ -61,6 +61,7 @@ background-color: hsl(184, 100%, 22%);
     width: 76%;
 }
 :is(.learn-more-1 button,.learn-more-2 button,.learn-more-3 button){
+    background-color: hsl(0, 0%, 95%);
     cursor: pointer;
     color: hsl(0, 0%, 95%);
     height: 3rem;
@@ -70,17 +71,17 @@ background-color: hsl(184, 100%, 22%);
      font-family: 'Lexend Deca', sans-serif;
 }
 .learn-more-1 button{
-    background-color:  hsl(31, 77%, 52%);
+color:  hsl(31, 77%, 52%);
 }
 .learn-more-2 button{
-    background-color: hsl(184, 100%, 22%);
+color: hsl(184, 100%, 22%);
 }
 .learn-more-3 button{
-    background-color: hsl(179, 100%, 13%);
+color: hsl(179, 100%, 13%);
 }
 
 
-.learn-more-1 button:hover{
+/* .learn-more-1 button:hover{
     background-color: hsl(0, 0%, 95%);
     color:  hsl(31, 77%, 52%);
 }
@@ -91,7 +92,7 @@ background-color: hsl(184, 100%, 22%);
 .learn-more-3 button:hover{
     background-color: hsl(0, 0%, 95%);
     color: hsl(179, 100%, 13%);
-}
+} */
 
 .attribution {
      font-size: 11px; text-align: center;
